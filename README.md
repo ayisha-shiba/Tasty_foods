@@ -5,3 +5,7 @@ The website is fully responsive, meaning it adapts smoothly to different screen 
 This project focuses on building a visually appealing layout using modern web technologies while keeping the structure simple and clean.
 It was created as part of learning and practicing responsive web design concepts.
 The goal of this project is to improve skills in HTML structure, Bootstrap components, and basic JavaScript interactivity.
+
+Tools used:
+-----------
+VS code
